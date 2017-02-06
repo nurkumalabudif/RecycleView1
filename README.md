@@ -1,7 +1,8 @@
 # RecyclerView1
-# ScreenShoot Aplikasi
+ * ScreenShoot Aplikasi
 ![1](https://github.com/nurkumalabudif/RecyclerView1/blob/master/1.jpg)
-# Identitas
+![rv1](https://github.com/nurkumalabudif/RecyclerView1/blob/master/rv1.jpg)
+* Identitas
 * Nama = NURKUMALA BUDI FAJRIN 
 * Kelas = XIRPL5 
 * No Urut = 24 
